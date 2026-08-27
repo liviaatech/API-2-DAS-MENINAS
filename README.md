@@ -1,4 +1,4 @@
-# API-2-DAS-MENINAS
+# API-2-RotaMove
 Repositório da nossa API
 # Rosa dos Ventos Log - Aprendizado por Projeto Integrador (API) 
 Controle de versionamento dos artefatos do Projeto Integrador, em que o principal objetivo é desenvolver uma plataforma BI, que permita visualizar informações sobre o desempenho de municípios do Estado de São Paulo no comércio exterior.
