@@ -1,7 +1,7 @@
 # API-2-RotaMove
 Repositório da nossa API
 # RotaMove - Aprendizado por Projeto Integrador (API) 
-Controle de versionamento dos artefatos do Projeto Integrador, em que o principal objetivo é desenvolver uma plataforma BI, que permita visualizar informações sobre o desempenho de municípios do Estado de São Paulo no comércio exterior.
+  Repositório criado para a organização e visualização dos resultados e processos do Projeto Integrador, proporcionado pelo Observatório Nacional de Segurança Viária (ONVS), na busca por analisar a segurança viária no Brasil, no contexto de veículos pesados em meio a autoestradas.
 # Índice
 - [Projeto](#projeto)
 - [Objetivo do Projeto](#objetivo-do-projeto)
@@ -10,10 +10,11 @@ Controle de versionamento dos artefatos do Projeto Integrador, em que o principa
 - [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
 # Projeto 
-Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de São Paulo.
+ Criar uma visualização eficiente e interativa dos dados disponíveis entre os anos de 2015 a 2025 de todos os Estados Federais, visando um conjunto de aspectos reconhecidos na realidade viária como acidentes, mortalidade e possiveís causas, assim como outras questões que podem enriquecer a compreensão.
+ 
 # Objetivo do Projeto
-O principal objetivo é desenvolver uma plataforma BI, que permita visualizar informações sobre o desempenho de municípios do Estado de São Paulo no comércio exterior, com base nos
-dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Desta forma, essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional.
+ Os principais objetivos são a criação de um Business Intelligence (BI) com dashboards que facilitem a compreensão dos dados gerados entre 2015 a 2025 pela Instituição, com enfoque em veículos pesados e correlacionando-os aos respectivos indicadores de risco: mortalidade, severidade dos sinistros, frota, uso de motocicletas e outros que possam conversar a respeito da população de cada estado brasileiro. 
+  Após isto, espera-se encontrar uma análise de dados limpa e coerente de maneira a facilitar o entendimento dos dados agregados, além de visualizar possíveis tomadas de decisões e compreender efetivamente os resultados obtidos das pesquisas, respondendo as principais perguntas feitas.
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -27,6 +28,9 @@ dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviç
 - Colab
 - Github
 - Power BI
+- Python
+- Office
+  
 # Backlog do Produto
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
