@@ -34,15 +34,18 @@ Repositório da nossa API
 # Backlog do Produto
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1  | Média   |                                                                                                                       | ...        | 1        |
-| 2  | Média   |                                                                                                                                     | ...        | 1        |
+| 1  | Média   |      Como gestor de segurança viária, quero visualizar os principais indicadores de sinistralidade envolvendo veículos pesados, para analisar a situação da segurança viária no Brasil.                                                                                                                 | ...        | 1        |
+| 2  | Média   |      Como gestor de segurança viária, quero comparar os indicadores de segurança viária entre os estados brasileiros, para identificar diferenças e estados com maiores níveis de risco.                                                                                                                               | ...        | 1        |
 | 3  | Baixa   |                                                                                                                                      | ...        | 1        |
-| 4  | Baixa   | 
-| 5  | Média    |                                                                               | ...        | 2        |
-| 6  | Média    |                                                                                        | ...        | 2        |
-| 7  | Alta    |                                                                                                                                       | ...        | 2        |
-| 8  | Alta    |       | ...        | 2        |
-| 9  | Alta     | ...        | 2        |
+| 3  | Baixa   |      Como analista de segurança viária, quero visualizar a evolução dos indicadores de segurança viária entre 2015 e 2025, para identificar tendências ao longo do tempo.                                                                                                                                | ...        | 1        |
+| 3  | Baixa   |      Como analista de segurança viária, quero visualizar a taxa de mortalidade por 100 mil habitantes, para comparar o impacto dos sinistros entre os estados.                                                                                                                              | ...        | 1        |
+| 4  | Baixa   |      Como analista de segurança viária, quero visualizar a quantidade de sinistros por 10 mil veículos, para analisar a ocorrência de sinistros em relação ao tamanho da frota.
+| 5  | Média    |     Como gestor de segurança viária, quero visualizar os pontos de parada/descanso e a distância entre esses pontos e os locais dos sinistros envolvendo veículos pesados, para analisar possíveis relações entre as paradas e a ocorrência de sinistros.                                                                          | ...        | 2        |
+| 6  | Média    |     Como gestor de segurança viária, quero visualizar os pontos de parada/descanso e a distância entre esses pontos e os locais dos sinistros envolvendo veículos pesados, para analisar possíveis relações entre as paradas e a ocorrência de sinistros.                                                                                   | ...        | 2        |
+| 7  | Alta    |       Como usuário do dashboard, quero utilizar filtros por tipo de veículo, região, ano e gravidade do sinistro, para realizar análises específicas dos dados.                                                                                                                                | ...        | 2        |
+| 8  | Alta    |      Como analista de segurança viária, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar as regiões de maior risco.
+ | ...        | 2        |
+| 9  | Alta     | ...       Como analista de segurança viária, quero comparar os indicadores de sinistralidade entre as regiões brasileiras, para identificar diferenças e padrões regionais. | 2        |
 | 10  | Alta    |     | ...        | 2        |
 | 11  | Alta    |     | ...        | 3        |
 | 12  | Alta    |     | ...        | 3        |
