@@ -50,7 +50,7 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 01/10/2026 | Em andamento  |   |
-| 02                | 29/10/2026 | ....  |   |
-| 03                | 26/11/2026 | ....|   |
-| Feira de Soluções | 03/10/2026 | A espera  | )  |
+| 01                | 01/10/2026 | Em andamento  | FUTURO MVP  |
+| 02                | 29/10/2026 | ....  |  FUTURO MVP |
+| 03                | 26/11/2026 | ....| FUTURO MVP   |
+| Feira de Soluções | 03/10/2026 | A espera  | ...  |
