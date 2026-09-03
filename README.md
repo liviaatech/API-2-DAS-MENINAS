@@ -1,4 +1,4 @@
-# API-2-RotaMove
+# API-2-RotaMove :car::hibiscus:
 Repositório da nossa API
 # RotaMove - Aprendizado por Projeto Integrador (API) 
   Repositório criado para a organização e visualização dos resultados e processos do Projeto Integrador, proporcionado pelo Observatório Nacional de Segurança Viária (ONVS), na busca por analisar a segurança viária no Brasil, no contexto de veículos pesados em meio a autoestradas.
@@ -9,11 +9,11 @@ Repositório da nossa API
 - [Backlog do Produto](#backlog-do-produto)
 - [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
-# Projeto 
+# Projeto :sparkles:
 Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito brasileiro, com foco em veículos pesados, permitindo a visualização e comparação de indicadores de segurança viária.
-# Objetivo do Projeto
+# Objetivo do Projeto :bell:
 Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito brasileiro, com foco em veículos pesados, permitindo a visualização e comparação de indicadores de segurança viária entre estados e regiões, além da análise de fatores relacionados aos sinistros.
-# Equipe
+# Equipe :busts_in_silhouette:
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  Joseany Nascimento    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/karolyne-nobre-6897601bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/karolxnez)              |
@@ -22,14 +22,14 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 |  Team Member  | Maria Fernanda      |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Josy7002)        |
 
    
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas :hammer:
 - Colab
 - Github
 - Power BI
 - Python
 - Office
   
-# Backlog do Produto
+# Backlog do Produto :round_pushpin:
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1| Alta| Como gestor de segurança viária, quero consultar indicadores baseados em dados de fontes públicas e confiáveis, como DATASUS e PRF, para garantir maior credibilidade às análises apresentadas no dashboard.| ...|  1 |
@@ -46,7 +46,7 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 | 12 | Baixa   |  Como analista de segurança viária, quero visualizar os dados de motociclistas entre as vítimas dos sinistros envolvendo veículos pesados, para analisar o impacto desses sinistros sobre esse grupo.   | ...        | 3        |
                                                                                                             
 
-# Registro das Sprints
+# Registro das Sprints 🔗
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
