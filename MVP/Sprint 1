@@ -1,55 +1,21 @@
-# Registro da Sprint 1
+# 🚀 Minimum Viable Product (MVP) - Uma análise de acidentes de Veículos Pesados para O Observatório Nacional de Segurança Viária (SPRINT 1)
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1   | Média  | | to fazendo um teste porque não achei o modelo      |         |
-| 2   | Média  |                                                                                                                                            | ...        | 1        |
-| 3  | Baixa  |                                                                                                                                                      | ...        | 1        |
-| 4  | Baixa  | 
+Breve descrição de uma frase sobre o problema que este MVP resolve e quem é o usuário final.
 
-## Apresentação Sprint I
+## 🎯 Escopo do MVP (Sprint Atual)
+O objetivo deste MVP é validar a hipótese de que [inserir hipótese principal].
 
-[Acesse aqui]
+### ✅ O que SERÁ feito (In Scope)
+* **Funcionalidade 1:** Descrição simples.
+* **Funcionalidade 2:** Descrição simples.
+* **Funcionalidade 3:** Descrição simples.
 
-# 📌 MVP -
+### ❌ O que NÃO será feito (Out of Scope)
+* Sistema de cadastro complexo (usar login simplificado ou mock).
+* Design final/refinado (foco em usabilidade básica).
+* Pagamentos reais (usar ambiente de teste/sandbox).
 
-## 🎯 Objetivo do MVP
-
-
----
-
-## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa:
-- Será trabalhado valores de exportação e importação entre munícipios paulistas, por meio de uma triagem efetiva que sinaliza as cinco metrópoles de maiores nívels de fluxos de mercadoria, na busca por compreender a concentração de riquezas e movimentação de produtos na comparação desses dados.
-- Funcionalidades principais incluídas:  Criar cartões de indicadores com o total de exportações e importações dos munícipios em um dashboard, aplicar filtros por código de munícipio (São José dos Campos) e Unidade Federativa (SP) no power BI, criar uma base de dados em phyton sem inconsistências e padronização de filtragem das informações relevantes e por fim, uma análise dos 5 munícipios com maior PIB de SP em relação ao PIB da cidade de São José dos Campos.
-- Limitações conhecidas:
-  A variável de dados com base na comparação de cidades distintas populacional e tecnológicamente e a base de dados utilizadas em períodos desproporcionais, uma vez que o ano de 2026 está acontecendo, impactando diretamente nas informações dos gráficos entre os anos escolhidos (2022-2026).
-- Escopo reduzido: (somente o essencial para validar a ideia)
-Criação de gráficos com base na leitura dos dados das respectivas cidades escolhidas.
-
----
-
-## 👥 Personas / Usuários-Alvo
-- **Secretário de Desenvolvimento:** Atender às necessidades de observação e compreensão de indicadores do total de exportação e importação dos munícipios escolhidos para validar o desempenho econômico municipal. 
-- **Secretário de Desenvolvimento:** Aplicar filtros por código de São José dos Campos e o estado de São Paulo
-
-
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário observe com clareza as mudanças ocorridas em um determinado período.
-- O sistema deve registrar a movimentação de dados de exportação e importação, assim como a diversidade de produtos no decorrer dos anos.
-- Métricas coletadas: Dados de produtos, números brutos de importação e exportação.
-
----
-
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
----
-
-## 🚀 Próximos Passos
-- Melhorar gráfico, centralizando o foco para anos inteiros.
-- Limpeza de dados mais objetivos.
-- Maior colaboração e inclusão entre os membros.
----
+## 🛠️ Tecnologias Utilizadas
+* **Backend:** Node.js / Python / etc.
+* **Frontend:** React / HTML puro / etc.
+* **Banco de Dados:** SQLite / Supabase (foco em setup rápido).
