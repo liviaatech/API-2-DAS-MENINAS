@@ -4,7 +4,7 @@
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1   | Alta |                                                                                                                                                      | ...        | 1        |
+| 1   | Alta | Como gestor de segurança viária, quero consultar indicadores baseados em dados de fontes públicas e confiáveis, como DATASUS e PRF, para garantir maior credibilidade às análises apresentadas no dashboard.                                                                                                                                                      | ...        | 1        |
 | 2   | Alta  |                                                                                                                                                     | ...        | 1        |
 | 3  | Alta |                                                                                                                                                     | ...        | 1        |
 | 4  | Alta | | ...        | 1        |
