@@ -9,6 +9,12 @@ Repositório da nossa API
 - [Backlog do Produto](#backlog-do-produto)
 - [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
+
+  # Vídeo da Compreensão da API
+  [https://youtu.be/5XO3Lv4gRoM?si=4Ax_EYNacjOcymbS]
+  # Canal RotaMove:
+  [https://youtube.com/@rotamovelog?si=5ee33CYxS7QCD5kA]
+  
 # Projeto :sparkles:
 Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito brasileiro, com foco em veículos pesados, permitindo a visualização e comparação de indicadores de segurança viária.
 # Objetivo do Projeto :bell:
