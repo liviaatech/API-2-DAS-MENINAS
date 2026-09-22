@@ -22,11 +22,10 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 # Equipe :busts_in_silhouette:
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |  Joseany Nascimento    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/karolyne-nobre-6897601bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/karolxnez)              |
-| Scrum Master  | Livia Camargo |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amandacrreis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AmandaReis21)     |
-| Team Member   | Júlia Sousa         |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliasousapitombeira10-blip)        |
-|  Team Member  | Maria Aparecido      |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Josy7002)        |
-
+| Product Owner |  Joseany Nascimento    |     [![Linkedin Badge][![GitHub Badge|
+| Scrum Master  | Livia Camargo |      [![Linkedin Badge [![GitHub Badge]    |
+| Team Member   | Júlia Sousa         |         [![Linkedin Badge] [![GitHub Badge]    |
+|  Team Member  | Maria Aparecido      |         [![Linkedin Badge] [![GitHub Badge]
    
 ## Tecnologias Utilizadas :hammer:
 - Colab
