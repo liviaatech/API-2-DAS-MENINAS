@@ -24,13 +24,10 @@
 > Descrever de forma clara qual é o propósito do MVP:  
  O Minimum Viable Product, também conhecido como MVP, tem como principal objetivo ilustrar de forma clara, simples e dinâmica, todo o caminho percorrido durante o desenvolvimento desta Sprint, bem como seus resultados.
 - Qual problema resolve?
-Desenvolvimemtos da sprint 1 do análise de seguranca Viária no Brasil tem com principal objetivo análisa ano 2015 ate 2025 para comparacão  dos ano 
-análisee  dados usar transforma para google colab extrair os dados e primeiro  nos pandas e python fazer leitura dodas saber Sinistros com veiculos
-pesados comparação dos estandos e municipel que morte por acidente de caminhão por causa de falhas elétricas de freio ou carga pesados e
-desenvolindo esse projeto MVP fazer deshboard comparação estados e municipios análise de dados  acidente  imdice mais morte
  Evidenciar com clareza os dados obtidos entre os anos de 2015 a 2025 em todas as 26 federações brasileiras e um Distrito Federal com respeito aos sinistros com veículos pesados, visando compreender e visualizar a evolução das ocorrências ao decorrer do período, assim como apontar os principais estados com maiores casos de sinistralidades. 
   
 - Qual hipótese será validada?
+  A ideia que, ao compreender inicialmente e encontrar os dados focados no tema central, será possivel seguir adiante na solução do principal problema da entrega: Registros principais de ocorrências em veículos pesados, de modo a clarear todo o raciocinio, possibilitando a tomada de decisões mais eficientes para novas formas de conscientização.
  
 - Qual valor será entregue ao usuário final?
  Espera-se entregar uma base de dados confiável e objetiva, assim como representações gráficas evidentes que possibilitam a visualização e comparação dos dados obtidos ao longo dos anos, tais como os principais indicadores, taxa de sinistros, mortalidades etc.
