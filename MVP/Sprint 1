@@ -44,7 +44,14 @@ O MVP deve permitir visualizar com clareza os picos de acidentes de acordo com o
  
 - Escopo reduzido: (somente o essencial para validar a ideia)
 
+📋 Requisitos do Cliente (CADI / ONSV)
 
+### 📌 Requisitos Funcionais e Desafios de Negócio:
+1. **Análise por Modal:** O sistema deve contabilizar e segmentar ocorrências com veículos pesados (caminhão e ônibus), motocicletas e bicicletas.
+2. **Taxa de Mortalidade:** Calcular e exibir a taxa de mortes por 100 mil habitantes em cada estado brasileiro.
+3. **Métricas de Gravidade e Horário:*Relacionar os acidentes às faixas de horário de maior incidência e às velocidades registradas nas vias.
+4. **Séries Temporais (2015–2025):** Exibir a evolução temporal dos indicadores de segurança viária ao longo dos últimos 10 anos.
+5. **Navegação Intuitiva:** Garantir um painel executivo com interface limpa e acesso às informações essenciais com poucos cliques
 
 ---
 
