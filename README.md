@@ -25,7 +25,7 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 | Product Owner |  Joseany Nascimento    |     [![Linkedin Badge][!https://github.com/Josy7002|
 | Scrum Master  | Livia Camargo |      [![Linkedin Badge [![https://github.com/liviaatech]    |
 | Team Member   | Júlia Sousa         |         [![Linkedin Badge] [![GitHub Badge]    |
-|  Team Member  | Maria Aparecido      |         [![Linkedin Badge] [![GitHub Badge]
+|  Team Member  | Maria Aparecido      |         [![Linkedin Badge] [!https://github.com/Mariafernandinha]
    
 ## Tecnologias Utilizadas :hammer:
 - Colab
