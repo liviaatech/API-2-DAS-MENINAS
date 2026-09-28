@@ -44,7 +44,12 @@ Total de sinistros, velocidade média registrada, contagem de mortos/feridos, ti
 
 - Funcionalidades principais incluídas:  
  
-- Escopo reduzido: (somente o essencial para validar a ideia)
+- Escopo reduzido: (somente o essencial para validar a ideia):
+
+## 📁 Estrutura do Repositório
+- `/docs`: Relatórios técnicos oficiais e documentação do projeto.
+- `/src`: Scripts Python utilizados no tratamento e modelagem dos dados.
+- `/dashboard`: Arquivo `.pbix` do Power BI.
 
 📋 Requisitos do Cliente (CADI / ONSV)
 
