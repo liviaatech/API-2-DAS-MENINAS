@@ -33,6 +33,7 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 - Power BI
 - Python
 - Office
+- Gemini/ Chat GPT
   
 # Backlog do Produto :round_pushpin:
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
