@@ -35,9 +35,11 @@
 ---
 
 ## 📝 Descrição da Solução
-O MVP deve permitir visualizar com clareza os picos de acidentes de acordo com o horário do dia e a velocidade da via.
+- O MVP deve permitir visualizar com clareza os picos de acidentes de acordo com o horário do dia e a velocidade da via.
 - O sistema deve filtrar corretamente as ocorrências por categoria de veículo (caminhões, ônibus, motos e bicicletas).
-- Métricas coletadas: Total de sinistros, velocidade média registrada, contagem de mortos/feridos, tipo de veículo e distribuição por horário.
+
+- Métricas coletadas :mag: 
+Total de sinistros, velocidade média registrada, contagem de mortos/feridos, tipo de veículo e distribuição por horário.
 > Breve explicação do que será desenvolvido e entregue nesta etapa:
 
 - Funcionalidades principais incluídas:  
