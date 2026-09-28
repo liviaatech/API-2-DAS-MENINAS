@@ -57,6 +57,12 @@ Painel de Evolução Histórica (2015–2025): Visualização gráfica da varia�
 Módulo de Análise de Veículos Pesados: Filtros dinâmicos e cartões analíticos dedicados a isolar ocorrências envolvendo todas as categorias de grande porte (caminhões, carretas, ônibus e micro-ônibus).
 Indicador de Mortalidade Por Habitantes: Cálculo dinâmico da taxa de mortes por 100 mil habitantes, permitindo comparar o impacto real dos sinistros entre os diferentes Estados (UFs).
 Mapeamento de Sinistralidade Regional: Visuais comparativos (mapas/gráficos de barras) que destacam os estados e regiões com maior gravidade e concentração de acidentes.
+
+ 3. Documentação e Gestão no GitHub
+
+Relatório Técnico em Markdown (RELATORIO_SPRINT_1.md): Leitura direta e formatada na web cobrindo contextualização, objetivos, fundamentação teórica e resultados esperados. 
+Anexo do Relatório Oficial (.docx / .pdf): Disponibilização do ficheiro formatado do relatório para download direto pelo orientador/professores. 0  
+README Principal: Apresentação da arquitetura do projeto, tecnologias utilizadas e instruções para execução do script Python e visualização do painel no Power BI.
 - Escopo reduzido: (somente o essencial para validar a ideia):
 
 ## 📁 Estrutura do Repositório
