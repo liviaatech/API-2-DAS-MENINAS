@@ -44,10 +44,19 @@ Total de sinistros, velocidade média registrada, contagem de mortos/feridos, ti
 
 - Funcionalidades principais incluídas:  
  1. Pipeline de Dados e Tratamento Automático (Python / Google Colab)>
+
 Ingestão e Unificação de Dados: Leitura e combinação automatizada da série histórica inteira da PRF (2015 a 2025) cobrindo todo o território nacional em duas bases: ocorrências/acidentes e pessoas/veículos envolvidos.   Higienização de Encodings e Nomenclaturas: Resolução automática de 
 conflitos de codificação de caracteres (UTF-8 / ISO-8859-1) e mapeamento (de-para) de nomes de colunas que sofreram alterações ao longo da década (ex.: 2015/2016 vs. anos recentes).  
 Tratamento de Dados Incoerentes (Outliers): Identificação e filtragem de registros anômalos (como idades superiores a 100 anos, como idades de 915 ou 2025 anos) e sanitização de dados nulos ou faltantes.  
 Modelagem Dimensional (Star Schema): Divisão e exportação dos dados sanitizados em tabelas fato separadas (fAcidentes e fEnvolvidos) para evitar a duplicação de métricas agregadas.   
+
+2. Painel Interativo de Inteligência Viária (Power BI)
+
+Módulo de Inteligência Temporal: Tabela de dimensão temporal (dCalendario) gerada via DAX para análise de tendências ano a ano, mês a mês e sazonalidade dos sinistros no período 2015–2025.   
+Painel de Evolução Histórica (2015–2025): Visualização gráfica da variação temporal no volume de sinistros, gravidade e número de óbitos nas rodovias federais.   
+Módulo de Análise de Veículos Pesados: Filtros dinâmicos e cartões analíticos dedicados a isolar ocorrências envolvendo todas as categorias de grande porte (caminhões, carretas, ônibus e micro-ônibus).
+Indicador de Mortalidade Por Habitantes: Cálculo dinâmico da taxa de mortes por 100 mil habitantes, permitindo comparar o impacto real dos sinistros entre os diferentes Estados (UFs).
+Mapeamento de Sinistralidade Regional: Visuais comparativos (mapas/gráficos de barras) que destacam os estados e regiões com maior gravidade e concentração de acidentes.
 - Escopo reduzido: (somente o essencial para validar a ideia):
 
 ## 📁 Estrutura do Repositório
