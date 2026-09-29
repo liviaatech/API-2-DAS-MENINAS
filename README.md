@@ -57,6 +57,6 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 01/10/2026 | Finalizando...  | [MVP](./MVP/Sprint_1) |
-| 02                | 29/10/2026 | ....  |  FUTURO MVP |
-| 03                | 26/11/2026 | ....| FUTURO MVP   |
+| 02                | 29/10/2026 | ....  |  [MVP](./NOME_DA_PASTA_SPRINT_01) |
+| 03                | 26/11/2026 | ....| [MVP](./NOME_DA_PASTA_SPRINT_01)  |
 | Feira de Soluções | 03/10/2026 | A espera  | ...  |
