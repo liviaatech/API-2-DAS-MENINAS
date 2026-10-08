@@ -1,5 +1,5 @@
 # API-2-RotaMove :car::hibiscus:
-Repositório da nossa API
+
 # RotaMove - Aprendizado por Projeto Integrador (API) 
   Repositório criado para a organização e visualização dos resultados e processos do Projeto Integrador, proporcionado pelo Observatório Nacional de Segurança Viária (ONSV), na busca por analisar a segurança viária no Brasil, no contexto de veículos pesados em meio a autoestradas.
 # Índice
