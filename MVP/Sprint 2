@@ -2,6 +2,7 @@
 
 # Registro da Sprint
 
+# Pendências da Sprint I:
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1   | Alta | Como gestor de segurança viária, quero consultar indicadores baseados em dados de fontes públicas e confiáveis, como DATASUS e PRF, para garantir maior credibilidade às análises apresentadas no dashboard. 
