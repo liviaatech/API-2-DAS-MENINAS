@@ -23,7 +23,8 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  Joseany Nascimento |     [!https://github.com/Josy7002|
-| Scrum Master  | Livia Camargo |     [[![https://github.com/liviaatech]    |
+| Scrum Master  | Livia Camargo |     [![Stars](https://shields.io)](https://github.com)
+   |
 | Team Member   | Júlia Sousa |      [!https://github.com/juliasousapitombeira10-blip/github-web-juliasousa]    |
 |  Team Member  | Maria Aparecido |      [ [!https://github.com/Mariafernandinha]
    
