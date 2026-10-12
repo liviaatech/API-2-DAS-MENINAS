@@ -6,7 +6,7 @@
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1   | Alta | Como gestor de segurança viária, quero consultar indicadores baseados em dados de fontes públicas e confiáveis, como DATASUS e PRF, para garantir maior credibilidade às análises apresentadas no dashboard. 
 | 3  | Alta | Como gestor de segurança viária, quero comparar os idnicadores de segurança viária entre os estados brasileiros, para identificar diferenças e e estados com maiores níveis de risco. 
-
+| 5  | Alta |  Como analista de segurança viária, quero visualizar a taxa de mortalidade por 100 mil habitantes, para comparar o impacto dos sinistros entre os estados.   | ...        | 1        |
 ## Relatório da Sprint II
 
 [Publicado futuramente aqui]
