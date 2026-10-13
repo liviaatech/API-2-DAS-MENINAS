@@ -57,5 +57,5 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 |-------------------|------------|----------|-----------|
 | 01                | 01/10/2026 | Em atraso! | https://github.com/liviaatech/API-2-DAS-MENINAS/blob/main/MVP/Sprint%201 |
 | 02                | 29/10/2026 | Iniciando…|  https://github.com/liviaatech/API-2-DAS-MENINAS/blob/main/MVP/Sprint%202) |
-| 03                | 26/11/2026 | ....| [MVP](./NOME_DA_PASTA_SPRINT_01)  |
+| 03                | 26/11/2026 | ....| https://github.com/liviaatech/API-2-DAS-MENINAS/blob/main/MVP/Sprint%203 |
 | Feira de Soluções | 03/10/2026 | A espera  | ...  |
