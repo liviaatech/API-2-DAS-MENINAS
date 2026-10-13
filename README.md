@@ -53,7 +53,7 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 
 # Registro das Sprints 🔗
 
-| Sprint            | Previsão   | Status   | Histórico |
+| Sprint            | Previsão   | Status   | Histórico( MVP) |
 |-------------------|------------|----------|-----------|
 | 01                | 01/10/2026 | Em atraso! | https://github.com/liviaatech/API-2-DAS-MENINAS/blob/main/MVP/Sprint%201 |
 | 02                | 29/10/2026 | Iniciando…|  [MVP](./NOME_DA_PASTA_SPRINT_01) |
