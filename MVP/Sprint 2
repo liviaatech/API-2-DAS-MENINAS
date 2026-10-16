@@ -64,3 +64,7 @@ Analista de Segurança Viária: Profissional técnico encarregado de investigar 
 ---
 
 ## 🚀 Próximos Passos
+1. Definição de Parâmetros: Homologar o conceito exato de "veículos pesados" (ex: caminhões, carretas, ônibus) e a fonte da base de frota utilizada para a taxa de 10 mil veículos.
+2. Modelagem de Dados: Cruzamento das bases de sinistros com os dados de frota de veículos pesados.
+3.Construção das Telas: Desenvolvimento dos componentes visuais do dashboard focando nas duas métricas.
+4. Validação: Validação direta com o analista de segurança viária.
