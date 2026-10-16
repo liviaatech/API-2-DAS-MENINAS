@@ -55,8 +55,11 @@ Exclusão de métricas populacionais gerais (ex: por 100 mil habitantes), compar
 Analista de Segurança Viária: Profissional técnico encarregado de investigar e mapear riscos rodoviários focando na relação entre o tamanho da frota local e a gravidade das ocorrências com veículos pesados.
 
 ## 📊 Critérios de Aceitação
-
+-CA01 (Sinistros por Frota): O sistema deve calcular e exibir corretamente a taxa de sinistros por 10 mil veículos para as regiões selecionadas.
+-CA02 (Letalidade com Veículos Pesados): O sistema deve identificar e ranquear os estados com maior índice de mortalidade/letalidade onde há envolvimento direto de veículos pesados.
+-CA03 (Clareza de Risco): As exibições devem permitir visualmente a rápida comparação entre estados de maior e menor risco nestas duas métricas.
 ---
+
 
 ---
 
