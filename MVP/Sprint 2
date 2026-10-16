@@ -23,11 +23,12 @@
 # 📌 MVP - [Uma Análise Integrada de Segurança Viária no Brasil: Sinistros com veículos Pesados em Autoestradas]
 
 ## 🎯 Objetivo do MVP
-> Desenvolver a primeira versão funcional (Mínimo Produto Viável) de um dashboard analítico focado em segurança viária nas rodovias federais brasileiras. 
+> A falta de visibilidade rápida sobre a gravidade dos sinistros envolvendo veículos pesados e a necessidade de avaliar a ocorrência de acidentes considerando o tamanho real da frota de cada região (evitando distorções causadas por estados mais povoados).
  
 - Qual problema resolve?
-  
+  apresentação de indicadores focados em frotas e veículos pesados permite que analistas identifiquem com precisão as regiões de maior risco rodoviário e a criticidade do transporte pesado.
 - Qual hipótese será validada?
+
  
 - Qual valor será entregue ao usuário final?
   
