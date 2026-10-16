@@ -40,16 +40,19 @@ Um painel direto e objetivo que correlaciona a quantidade de sinistros por volum
 > Breve explicação do que será desenvolvido e entregue nesta etapa:
 
 - Funcionalidades principais incluídas:  
+ Métrica de Frota: Visualização e gráfico da quantidade de sinistros para cada grupo de 10 mil veículos.
+
+ Métrica de Letalidade de Pesados: Ranking e destaque dos estados com maior taxa de letalidade especificamente em sinistros com veículos pesados.
  
 - Escopo reduzido: (somente o essencial para validar a ideia)
 
-
+Exclusão de métricas populacionais gerais (ex: por 100 mil habitantes), comparações amplas de gestão geral ou integração com outras fontes que não tratem diretamente dessas duas visões específicas de frota e veículos pesados.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
 
-
+Analista de Segurança Viária: Profissional técnico encarregado de investigar e mapear riscos rodoviários focando na relação entre o tamanho da frota local e a gravidade das ocorrências com veículos pesados.
 
 ## 📊 Critérios de Aceitação
 
