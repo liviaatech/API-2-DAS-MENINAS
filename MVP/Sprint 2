@@ -12,6 +12,7 @@
 | 1   | Alta | Como gestor de segurança viária, quero consultar indicadores baseados em dados de fontes públicas e confiáveis, somente utilizando a PRF, para garantir maior credibilidade às análises apresentadas no dashboard. 
 | 3  | Alta | Como gestor de segurança viária, quero comparar os indicadores de segurança viária entre os estados brasileiros, para identificar diferenças e e estados com maiores níveis de risco. 
 | 5  | Alta |  Como analista de segurança viária, quero visualizar a taxa de mortalidade por 100 mil habitantes, para comparar o impacto dos sinistros entre os estados.   | ...        | 1        |
+
 ## Relatório da Sprint II
 
 [https://docs.google.com/document/d/1xdB90-1M4EHRO-YR1A6bnRLryoT8FZbo/edit]
@@ -68,3 +69,11 @@ Analista de Segurança Viária: Profissional técnico encarregado de investigar 
 2. Modelagem de Dados: Cruzamento das bases de sinistros com os dados de frota de veículos pesados.
 3.Construção das Telas: Desenvolvimento dos componentes visuais do dashboard focando nas duas métricas.
 4. Validação: Validação direta com o analista de segurança viária.
+
+##Atuação das Memmbros
+
+
+| Cargo | Nome | Colaboração                                                                                                                                             | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| Scrum Master | Livia | Responsável por coordenar a equipe, criar o relatório do contexto atual, propostas e interesses do time, além do pacer, a edificação do 5W2H e idealização do Github do Grupo.| ... | 2|
+| Product Owner | Joseany| Como analista de segurança viária, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar as regiões de maior risco. | ...    |2|
