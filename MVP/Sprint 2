@@ -40,17 +40,34 @@ Um painel direto e objetivo que correlaciona a quantidade de sinistros por volum
 ## 📝 Descrição da Solução
 
 > Breve explicação do que será desenvolvido e entregue nesta etapa:
-
+O MVP desta etapa consiste no desenvolvimento de um painel interativo no Power BI para analisar a sinistralidade nas rodovias federais brasileiras, relacionando os acidentes registrados pela PRF com os dados de frota da SENATRAN, no período de 2015 a 2025. O painel busca identificar padrões de acidentes, comparar os estados brasileiros e destacar ocorrências envolvendo veículos pesados.
 - Funcionalidades principais incluídas:  
- Métrica de Frota: Visualização e gráfico da quantidade de sinistros para cada grupo de 10 mil veículos.
+1. Integração e Análise dos Dados de Acidentes e Frota
+Utilização dos dados históricos da PRF e da SENATRAN, considerando o período de 2015 a 2025.
+Integração dos dados por unidade federativa (UF) e ano, permitindo relacionar a quantidade de acidentes com o tamanho da frota de veículos.
+Organização dos indicadores para possibilitar análises comparativas entre os estados e ao longo dos anos.
 
- Métrica de Letalidade de Pesados: Ranking e destaque dos estados com maior taxa de letalidade especificamente em sinistros com veículos pesados.
- 
-- Escopo reduzido: (somente o essencial para validar a ideia)
+2. Painel Interativo de Sinistralidade (Power BI)
+Criação da página Visão Geral, destinada à apresentação dos principais indicadores de acidentes e mortes.
+Desenvolvimento da página Sinistralidade por Estado, com gráficos e mapas para comparar a distribuição dos acidentes e das mortes entre as unidades federativas.
+Desenvolvimento da página Veículos Pesados, com visualizações de acidentes envolvendo veículos pesados por estado e ano, além de indicadores relacionados às mortes nesses acidentes.
+Criação da página Frota e Sinistralidade, relacionando a quantidade de veículos em circulação com os registros de acidentes.
 
-Exclusão de métricas populacionais gerais (ex: por 100 mil habitantes), comparações amplas de gestão geral ou integração com outras fontes que não tratem diretamente dessas duas visões específicas de frota e veículos pesados.
+3. Indicadores e Visualizações Desenvolvidos
+Total de acidentes: visualização da quantidade de sinistros registrados por estado e ao longo do período analisado.
+Total de mortes: apresentação dos óbitos registrados, com possibilidade de comparação entre as unidades federativas.
+Acidentes envolvendo veículos pesados: análise da distribuição dos acidentes por estado e da evolução anual.
+Frota de veículos por estado: comparação da quantidade de veículos entre as unidades federativas.
+Evolução da frota: acompanhamento das mudanças na quantidade de veículos entre 2015 e 2025.
+Frota e acidentes: gráfico comparativo da evolução da frota e dos acidentes ao longo dos anos.
+Acidentes por 10 mil veículos: criação de um indicador para relacionar o total de acidentes à quantidade de veículos da frota.
+Taxa de mortalidade por 100 mil habitantes: visualização comparativa da mortalidade entre os estados.
+Distribuição da frota por tipo de veículo: análise da composição da frota por categoria, conforme os dados disponíveis.
 
----
+4. Filtros e Navegação
+Organização do dashboard em páginas temáticas para facilitar a consulta das informações.
+Utilização de filtros por ano para permitir a análise dos dados conforme o período selecionado.
+Aplicação de gráficos, cartões e mapas para facilitar a interpretação e a comparação dos indicadores.
 
 ## 👥 Personas / Usuários-Alvo
 
