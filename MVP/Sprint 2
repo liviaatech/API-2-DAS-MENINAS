@@ -78,7 +78,16 @@ Analista de Segurança Viária: Profissional técnico encarregado de investigar 
 -CA02 (Letalidade com Veículos Pesados): O sistema deve identificar e ranquear os estados com maior índice de mortalidade/letalidade onde há envolvimento direto de veículos pesados.
 -CA03 (Clareza de Risco): As exibições devem permitir visualmente a rápida comparação entre estados de maior e menor risco nestas duas métricas.
 ---
+##📋 Requisitos do Cliente (CADI / ONSV)
 
+📌 Requisitos Funcionais e Desafios de Negócio
+
+Métrica de Frota: apresentar a quantidade de sinistros por 10 mil veículos.
+Letalidade de Veículos Pesados: permitir identificar e comparar os estados com maiores indicadores de letalidade em acidentes envolvendo veículos pesados.
+Comparação Regional: comparar acidentes, mortes e indicadores de sinistralidade entre as unidades federativas.
+Séries Temporais (2015–2025): apresentar a evolução dos acidentes, das mortes e da frota ao longo do período.
+Navegação Intuitiva: organizar as informações em páginas temáticas com filtros e visualizações de fácil compreensão.
+Validação dos Indicadores: conferir os cálculos e a consistência dos dados utilizados nas análises.
 
 ---
 
