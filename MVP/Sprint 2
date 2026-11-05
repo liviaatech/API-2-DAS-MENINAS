@@ -26,11 +26,13 @@
 [https://colab.research.google.com/drive/1OiWxaPox4Dts5qSn5i46-i7VK-PurOCs?usp=sharing]
 [https://colab.research.google.com/drive/1Sxo9ak3p2Uoq-Kj8OfJA0hC6ln8LCP4w?usp=sharing]
 
+#Lnk Google Drive
+[https://drive.google.com/drive/folders/1cl9OVd-QT3JyktZEz9WR9U1_WeSGisfd]
+
 # 📌 MVP - [Uma Análise Integrada de Segurança Viária no Brasil: Sinistros com veículos Pesados em Autoestradas]
 
 ## 🎯 Objetivo do MVP
-> 
- 
+
 - Qual problema resolve?
 A falta de visibilidade rápida sobre a gravidade dos sinistros envolvendo veículos pesados e a necessidade de avaliar a ocorrência de acidentes considerando o tamanho real da frota de cada região (evitando distorções causadas por estados mais povoados).
 - Qual hipótese será validada?
@@ -101,7 +103,7 @@ Validação dos Indicadores: conferir os cálculos e a consistência dos dados u
 3.Construção das Telas: Desenvolvimento dos componentes visuais do dashboard focando nas duas métricas.
 4. Validação: Validação direta com o analista de segurança viária.
 
-##Atuação das Memmbros
+##Atuação das Membros
 
 
 | Cargo | Nome | Colaboração                                                                                                                                            
