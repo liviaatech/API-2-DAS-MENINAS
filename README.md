@@ -47,8 +47,7 @@ Desenvolver um dashboard interativo para analisar a sinistralidade no trânsito 
 | 8 | Média   |       Como usuário do dashboard, quero utilizar filtros por tipo de veículo, região, ano e gravidade do sinistro, para realizar análises específicas dos dados.                                                                                                                                | ...        | 2        |
 | 9 | Média |      Como analista de segurança viária, quero identificar os estados com maior taxa de letalidade envolvendo veículos pesados, para identificar as regiões de maior risco. | ...    |2|
 | 10 | Baixa    |     Como analista de segurança viária, quero comparar os indicadores de sinistralidade entre as regiões brasileiras, para identificar diferenças e padrões regionais. | ...       |3  |
-| 11 | Baixa |  Como analista de segurança viária, quero cruzar dados de saúde e transporte, para analisar possíveis relações entre esses indicadores.   | ...        | 3        |
-| 12 | Baixa   |  Como analista de segurança viária, quero visualizar os dados de motociclistas entre as vítimas dos sinistros envolvendo veículos pesados, para analisar o impacto desses sinistros sobre esse grupo.   | ...        | 3        |
+| 11 | Baixa   |  Como analista de segurança viária, quero visualizar os dados de motociclistas entre as vítimas dos sinistros envolvendo veículos pesados, para analisar o impacto desses sinistros sobre esse grupo.   | ...        | 3        |
                                                                                                             
 
 # Registro das Sprints 🔗
